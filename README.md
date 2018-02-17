@@ -15,3 +15,11 @@ make sure xcode is installed
 `virtualenv env`
 
 activate virtual environment w/ `source env/bin/activate`
+
+## commiting code
+
+* edit and save file 'readme.md'
+* `git status` to check modified files 
+* `git add README.md` to stage the file 
+* `git commit -m 'message'` to close the commit with the staged files 
+* `git push` to put on git hub
