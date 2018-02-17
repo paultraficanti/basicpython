@@ -1,0 +1,2 @@
+# basicpython
+lesson #1 
